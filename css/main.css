@@ -7,7 +7,15 @@
 
 header{
   height: 500px;
-  background-color: darkblue;
+  background-color: #0d325a;
+  background-image: url("../img/sfondo.png");
+  background-repeat: no-repeat;
+  background-size: 50% 85%;
+  background-position: right bottom;
+}
+
+.boxsfondo{
+
 }
 
 main{
@@ -18,5 +26,5 @@ main{
 
 footer{
   height: 500px;
-  background-color: darkblue;
+  background-color: #0d325a;
 }
