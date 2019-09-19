@@ -194,8 +194,28 @@ text-align: center;
   text-align: center;
 }
 
+#plan{
+  font-size: 17px;
+  color: lightgrey;
+  margin-top: 50px;
+  margin-left: 130px;
+  text-align: center;
+}
 
+#tutor{
+  font-size: 17px;
+  color: lightgrey;
+  margin-top: 75px;
+  margin-left: 130px;
+  text-align: center;
+}
 
+#achievement{
+  font-size: 17px;
+  color: lightgrey;
+  margin-top: 45px;
+  margin-left: 75px;
+  text-align: center;
 }
 
 footer{
