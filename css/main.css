@@ -119,6 +119,16 @@ main{
   background-color: #f9f9f9;
 }
 
+#txt1{
+  color: #373a3c;
+  font-size: 24px;
+}
+
+#txt2{
+  color: #999;
+  font-size: 18px;
+}
+
 footer{
   height: 500px;
   background-color: #0d325a;
