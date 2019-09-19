@@ -41,7 +41,6 @@ header{
 
 .navcol2{
   width: 50%;
-  margin-left:
 }
 
 .navcol3{
@@ -148,19 +147,28 @@ text-align: center;
   float: left;
 }
 
+.method:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .method.profile img{
-  width: 10%;
   width: 150px;
+  margin-left: 40%;
+  margin-top: 30px;
 }
 
 .method.pc img{
-  width: 10%;
-  width: 225px;
+  width: 200px;
+  margin-left: 40%;
+  margin-top: 30px;
 }
 
 .method.doc img{
-  width: 10%;
   width: 150px;
+  margin-left: 30%;
+  margin-top: 40px;
 }
 
 }
