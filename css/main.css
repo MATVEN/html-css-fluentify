@@ -74,17 +74,28 @@ header{
 }
 
 .push-button.log{
-
+  display: inline-block;
 }
 
 .push-button.green{
   background-color: #7fb802;
+  border-color: #7fb802;
 }
 
-.row{
+.row1{
   height: 400px;
   width: 50%;
   color: white;
+}
+
+.slogan{
+  font-size: 50px;
+  margin-left: 90px;
+  margin-top: 100px;
+}
+
+.row1.push-button.green{
+  text-decoration: none;
 }
 
 main{
