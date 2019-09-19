@@ -137,6 +137,33 @@ text-align: center;
 /* fine blocco1 */
 
 /* blocco2 */
+.blocco2{
+  height: 550px;
+}
+
+.method{
+  width: 33.33%;
+  height: 550px;
+  background-color: white;
+  float: left;
+}
+
+.method.profile img{
+  width: 10%;
+  width: 150px;
+}
+
+.method.pc img{
+  width: 10%;
+  width: 225px;
+}
+
+.method.doc img{
+  width: 10%;
+  width: 150px;
+}
+
+}
 
 footer{
   height: 500px;
