@@ -155,21 +155,46 @@ text-align: center;
 
 .method.profile img{
   width: 150px;
-  margin-left: 40%;
+  margin-left: 50%;
   margin-top: 30px;
 }
 
 .method.pc img{
   width: 200px;
   margin-left: 40%;
-  margin-top: 30px;
+  margin-top: 60px;
 }
 
 .method.doc img{
   width: 150px;
   margin-left: 30%;
-  margin-top: 40px;
+  margin-top: 60px;
 }
+
+.method.profile p{
+  font-size: 25px;
+  color: #7fb802;
+  margin-top: 50px;
+  margin-left: 130px;
+  text-align: center;
+}
+.method.pc p{
+  font-size: 25px;
+  color: #7fb802;
+  margin-left: 90px;
+  margin-top: 60px;
+  text-align: center;
+}
+.method.doc p{
+  font-size: 25px;
+  color: #7fb802;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+
 
 }
 
