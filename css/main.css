@@ -15,13 +15,33 @@ header{
 }
 
 .navbar{
+  width: 80%;
   height: 75px;
-  width: 60%;
-  padding-left: 10%;
-  background-image: url("../img/logo.svg");
+  margin: 0 auto;
   background-repeat: no-repeat;
-  text-align: center;
+}
 
+.navbar:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.navcol1, .navcol2{
+  float: left;
+}
+
+.navcol1{
+  width: 20%;
+}
+
+.navcol2{
+  width: 45%;
+}
+
+.navcol3{
+  float: right;
+  width: 35%;
 }
 
 .navbar ul{
@@ -29,8 +49,8 @@ header{
 }
 
 .navbar li{
-  display: inline-block;
   font-size:8.5px;
+  display: inline-block;
 }
 
 .navbar a{
@@ -42,11 +62,18 @@ header{
   color: orange;
 }
 
+
+
+.slogan{
+  height: 400px;
+  width: 50%;
+  color: white;
+}
+
 main{
   height:4000px;
   background-color: grey;
 }
-
 
 footer{
   height: 500px;
