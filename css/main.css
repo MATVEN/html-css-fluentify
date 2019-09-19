@@ -218,13 +218,32 @@ text-align: center;
   text-align: center;
 }
 
-hr{
-  color: lightgrey;
-}
-
 /* fine blocco2 */
 
 /* blocco3 */
+.blocco3{
+  height: 550px;
+}
+
+.level{
+  width: 50%;
+  height: 550px;
+  background-color: white;
+  float: left;
+}
+
+.level:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.level.climb img{
+width: 70%;
+height: 350px;
+margin-left: 23%;
+margin-top: 4.5%;
+}
 
 footer{
   height: 500px;
