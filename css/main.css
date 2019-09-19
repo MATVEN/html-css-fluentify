@@ -67,9 +67,21 @@ header{
   color: orange;
 }
 
+.push-button{
+  padding: 7px;
+  border: solid 1px;
+  border-radius: 3px;
+}
 
+.push-button.log{
 
-.slogan{
+}
+
+.push-button.green{
+  background-color: #7fb802;
+}
+
+.row{
   height: 400px;
   width: 50%;
   color: white;
