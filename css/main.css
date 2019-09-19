@@ -31,14 +31,15 @@ header{
 .navbar li{
   display: inline-block;
   font-size:8.5px;
+}
+
+.navbar a{
+  text-decoration: none;
   color: white;
 }
 
-.link:hover
-.link:active
-.link:focus{
+.link:hover{
   color: orange;
-  text-decoration: none;
 }
 
 main{
