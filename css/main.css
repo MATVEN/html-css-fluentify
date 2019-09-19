@@ -245,6 +245,10 @@ margin-left: 23%;
 margin-top: 4.5%;
 }
 
+.level.placement h2, p, a{
+  margin-left: 15%;
+}
+
 footer{
   height: 500px;
   background-color: #0d325a;
