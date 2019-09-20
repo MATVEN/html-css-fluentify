@@ -273,6 +273,18 @@ margin-top: 4.5%;
   height: 150px;
   background-color: #f9f9f9;
 }
+
+.structure h2{
+  font-size: 30px;
+  padding-left: 11%;
+  padding-top: 55px;
+  color: #4a4a4a;
+}
+
+.framing{
+  display: inline-block;
+}
+
 footer{
   height: 500px;
   background-color: #0d325a;
