@@ -85,7 +85,6 @@ header{
   border-color: #7fb802;
 }
 
-
 /* row1 */
 .row1{
   height: 400px;
@@ -274,15 +273,44 @@ margin-top: 4.5%;
   background-color: #f9f9f9;
 }
 
+.structure{
+  width: 50%;
+  float: left;
+  display: inline-block;
+}
+
 .structure h2{
   font-size: 30px;
-  padding-left: 11%;
+  padding-left: 15%;
   padding-top: 55px;
   color: #4a4a4a;
 }
 
 .framing{
-  display: inline-block;
+  width: 50%;
+  float: left;
+}
+
+.framing h3{
+  font-size: 25px;
+  color: #b2b2b2;
+  margin-top: 9%;
+  float: left;
+}
+
+.w3-select{
+  width: 300px;
+  margin-top: 8%;
+  margin-left: 10%;
+  padding: 10px;
+  border: solid 1px white;
+  border-radius: 3px;
+  float: left;
+}
+
+.framing a{
+  margin-top: 50px;
+  margin-left: 30px;
 }
 
 footer{
