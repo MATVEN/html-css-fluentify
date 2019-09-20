@@ -269,6 +269,10 @@ margin-top: 4.5%;
 /* fine blocco3 */
 
 /* blocco4 */
+.blocco4{
+  height: 150px;
+  background-color: #f9f9f9;
+}
 footer{
   height: 500px;
   background-color: #0d325a;
